@@ -1,0 +1,1 @@
+java -Dsun.java2d.uiScale=2.5 -jar 'C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
